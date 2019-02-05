@@ -1,5 +1,5 @@
 ## Allstate_Claims_Severity  
-**This is a mini project to predict the loss of each customer id for Allstate  
+**This is a mini project to predict the loss of each customer id for Allstate**  
 **1.This is a Kaggle compitetion.  
 2.The test set contains 116 categorical features and 14 numerical features.  
 3.Features are all encoded and anonymous.  
