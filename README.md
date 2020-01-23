@@ -1,5 +1,5 @@
 ## Allstate_Claims_Severity  
-**In this project we will predict the loss from a customer's claim based on anonymous features**  
+**In this project we will predict how much of loss Allstate may have on each customer's claim given anonymous features.**  
 **1.This is a Kaggle compitetion.  
 2.The test set contains 116 categorical features and 14 numerical features.  
 3.Features are all encoded and anonymous.  
